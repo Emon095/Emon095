@@ -30,9 +30,6 @@
 - 📫 How to reach me **smshahrieremon@gmail.com**
 
 - ⚡ Fun fact **Irony shikhtechi**
-  <p align="Center"> <img src="https://komarev.com/ghpvc/?username=emon095&label=Profile%20views&color=0e75b6&style=flat" alt="emon095" /> </p>
-
-
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
